@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shannayaraul. I’m an International Development researcher at Texas A&M University.
-- ⌚Currently: Research Assistant to a project on International Trade and Development at The Bush School of Government and Public Policy, which features:
+- ⌚Currently: I am a Research Assistant to a project on International Trade and Development at The Bush School of Government and Public Policy, which features:
 -   🎯Building a historical dataset on maritime trade voyages using *OCR* mehtods on Amazon textract and R-Studio.
 -  📊Tools: R-Studio; KoboToolBox; Tableau; STATA (power calculations)
 -  🌱Interests: Gender, Education, Environment, and Rural Development  
